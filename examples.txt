@@ -1,0 +1,9 @@
+Run nano.
+Just run nano, nothing more.
+Ok, now run nano and firefox.
+What if I wanted to run nano or firefox?
+I don't believe you, run firefox or nano again!
+Open human-console.py.
+Can you open human-console.py with nano for me, please?
+Search for examples.txt.
+Quick, find file.txt in /home/maciej!
