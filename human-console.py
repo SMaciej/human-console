@@ -10,7 +10,7 @@ class HumanConsole():
                  "If you want me to RUN something, simply ask me to run given application. I can run two applications, or choose one of given two for you, if you can't decide.\n"
                  "Don't be afraid to OPEN files. I can do that.\n"
                  "Don't hesitate if you want to FIND something, remember that you can give me a directory to search in.\n"
-                 "If you want me to calculate something just spacify the operation and give me numbers. You can even write them as you hear them!")
+                 "If you want me to calculate something just say a word.")
 
     def welcomeText(self):
         print("Welcome to the human console.\n"
